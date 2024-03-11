@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rtz2k4
   
 - 👀 I’m interested in programming, I know to program in Python, C and C++. Also, I tried Pascal to broaden
-  my programming knowledge and I have a some basic experience with SQL.
+  my programming knowledge and I have some basic experience with SQL.
   Beyond code, I am also quite decent at mathematics. I find myself captivated by the complexities of the human
   mind through psychology, philosophy and politics.
   In my free time, I enjoy chess, watch movies and explore content on Youtube.
