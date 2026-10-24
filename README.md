@@ -1,8 +1,6 @@
 Hi, I'm @rtz2k4
 
-Feel free to reach out to me on Discord or Reddit!
-https://discord.com/users/rtz2k4
-u/Sure-Employee3282
+Feel free to reach out to me on Discord: @rtz2k4
 
 
 <!---
